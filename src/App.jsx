@@ -33,7 +33,7 @@ function App() {
         </div>
         <div className="flex flex-col items-center">
           <img
-            src="./src/assets/driver.svg"
+            src="./src/assets/driver.png"
             className="w-auto h-80"
             alt="Driver App"
           />
