@@ -8,14 +8,14 @@ function App() {
   return (
     <div className="bg-violet-300 h-screen overflow-hidden">
       <img
-        src="./src/assets/logo.jpg"
+        src="./src/assets/logo.svg"
         className="w-70	h-32"
         alt="Passenger App"
       />
       <div className="flex items-center justify-center h-80">
         <div className="flex flex-col items-center">
           <img
-            src="./src/assets/passenger.jpg"
+            src="./src/assets/passenger.svg"
             className="w-auto	h-80"
             alt="Passenger App"
           />
@@ -33,7 +33,7 @@ function App() {
         </div>
         <div className="flex flex-col items-center">
           <img
-            src="./src/assets/driver.png"
+            src="./src/assets/driver.svg"
             className="w-auto h-80"
             alt="Driver App"
           />
